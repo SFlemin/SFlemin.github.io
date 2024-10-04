@@ -14,16 +14,17 @@ Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (po
 - Unsuccesful Logins (Medium)
 - All Succssful Logins (Medium)
 
-'''
-Insert Image
-,,,
+![Branching](Log Rule Filtering.JPG)
 
 
-I was able to aggregate these remote login alerts and filter out all other events to present them in an easily understandable Sentinel Dashboard
+I was able to aggregate these remote login alerts from Azure Monitor Agent (and transfer them to Sentinel) and filter out all other events, to present them the Sentinel Dashboard
 
-'''
-Insert Image
-,,,
+
+![Branching](Aggregated logs from windows to sentinel.JPG)
+
+
+![Branching](Sentinel Alert Dashboard.JPG)
+
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
