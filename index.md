@@ -22,6 +22,7 @@ Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (po
 I was able to aggregate these remote login alerts from Azure Monitor Agent (and transfer them to Sentinel) and filter out all other events, to present them the Sentinel Dashboard
 
 AMA Logs
+
 ![Branching](Aggregated logs from windows to sentinel.JPG)
 
 
