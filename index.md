@@ -7,6 +7,27 @@ Hi there!
 
 Thank you for taking the time to look over my home projects. Here you will find a growing set of cybersecurity and networking ventures.
 
+# Microsoft Azure Sentinel Log Aggregation
+
+Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (port 3389) enabled. My aim was to detect remote login attempts and automate alerts through the Microsoft Sentinel SIEM tool. I set up the following log rules to automatically filter all events and set severity levels for each of them.
+
+- Unsuccesful Logins (Medium)
+- All Succssful Logins (Medium)
+
+'''
+Insert Image
+,,,
+
+
+I was able to aggregate these remote login alerts and filter out all other events to present them in an easily understandable Sentinel Dashboard
+
+'''
+Insert Image
+,,,
+
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
