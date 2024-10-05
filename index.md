@@ -21,24 +21,24 @@ Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (po
 
 I was able to aggregate these remote login alerts from Azure Monitor Agent (and transfer them to Sentinel) and filter out all other events, to present them in the Sentinel Dashboard
 
-##AMA Logs 
+## AMA Logs 
 * * *
 ![Branching](Aggregated logs from windows to sentinel.JPG)
 
 
 
-##Sentinel Dashboard Representation
+## Sentinel Dashboard Representation
 * * *
 ![Branching](Sentinel Alert Dashboard.JPG)
 
-#Virtual Home and Office Networks
+# Virtual Home and Office Networks
 ***
 
 Using Cisco Packet Tracer, I created and customised both a home and office network using the neccesary networking devices.
 
 
-
-#Certifications
+ 
+# Certifications
 * * *
 CompTIA Security+
 ![Branching](CompTIA Security+ ce certificate-1.pdf)
