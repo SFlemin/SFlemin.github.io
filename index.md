@@ -40,10 +40,10 @@ Using Cisco Packet Tracer, I created and customised both a home and office netwo
  
 # Certifications
 * * *
-CompTIA Security+
+## CompTIA Security+
 ![Branching](CompTIA Security+ ce certificate-1_page-0001.jpg)
 
-Google Cybersecurity
+## Google Cybersecurity
 ![Branching](Google Cybersecuritry Certififcate-2_page-0001.jpg)
 
 
