@@ -9,7 +9,7 @@ Thank you for taking the time to look over my home projects. Here you will find 
 
 
 
-# Microsoft Azure Sentinel Log Aggregation
+# Microsoft Sentinel Log Aggregation
 
 Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (port 3389) enabled. My aim was to detect remote login attempts and automate alerts through the Microsoft Sentinel SIEM tool. I set up the following log rules to automatically filter all events and set severity levels for each of them.
 
@@ -21,17 +21,30 @@ Using Microsoft Azure, I ran a deliberately exposed Virtual Machine with RDP (po
 
 I was able to aggregate these remote login alerts from Azure Monitor Agent (and transfer them to Sentinel) and filter out all other events, to present them in the Sentinel Dashboard
 
-AMA Logs 
+##AMA Logs 
 * * *
 ![Branching](Aggregated logs from windows to sentinel.JPG)
 
 
 
-Sentinel Dashboard Representation
+##Sentinel Dashboard Representation
 * * *
 ![Branching](Sentinel Alert Dashboard.JPG)
 
+#Virtual Home and Office Networks
+***
 
+Using Cisco Packet Tracer, I created and customised both a home and office network using the neccesary networking devices.
+
+
+
+#Certifications
+* * *
+CompTIA Security+
+![Branching](CompTIA Security+ ce certificate-1.pdf)
+
+Google Cybersecurity
+![Branching](Google Cybersecuritry Certififcate-2.pdf)
 
 
 
