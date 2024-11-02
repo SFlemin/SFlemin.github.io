@@ -71,7 +71,7 @@ Topics covered in the course:
 
 
 
-https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
+![Branching](https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0)
 
 
 
