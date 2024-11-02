@@ -30,10 +30,10 @@ I was able to aggregate these remote login alerts from Azure Monitor Agent (tran
 * * *
 ![Branching](Sentinel Alert Dashboard.JPG)
 
-# Virtual Home and Office Networks
+# Cisco Packet Tracer Lan Network
 ***
 
-Using Cisco Packet Tracer, I created and customised both a home and office network using the neccesary networking devices.
+Using Cisco Packet Tracer, I was able to successfully build and configure a home LAN network busing switches, routers, wireless routers and end d 
 
 
  
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/62eff54b-fa12-4a01-9e3a-6bb4f215303b
 
 https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
 
-
+https://github.com/SFlemin/SFlemin.github.io/raw/refs/heads/main/Network.Part-1.mp4
 
 <video src="Network Part-1.mp4">
 
