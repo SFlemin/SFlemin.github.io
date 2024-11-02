@@ -66,18 +66,18 @@ Topics covered in the course:
 
 ![Branching](Google Cybersecuritry Certififcate-2_page-0001.jpg)
 
-##Part 1
+## Part 1
 
 https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
 
-##Part 2
+## Part 2
 
 https://github.com/user-attachments/assets/62eff54b-fa12-4a01-9e3a-6bb4f215303b
 
-##Part 3
+## Part 3
 
 https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
 
 
 
-<img src="Network Part-1.mp4">
+<video src="Network Part-1.mp4">
