@@ -81,3 +81,7 @@ https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
 
 
 <video src="Network Part-1.mp4">
+
+<video width="320" height="240" controls loop=="" muted= "" autoplay="">
+ <source src="https://github.com/SFlemin/SFlemin.github.io/raw/refs/heads/main/Network.Part-1.mp4">
+</video>
