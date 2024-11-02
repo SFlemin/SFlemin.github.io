@@ -33,8 +33,27 @@ I was able to aggregate these remote login alerts from Azure Monitor Agent (tran
 # Cisco Packet Tracer Lan Network
 ***
 
-Using Cisco Packet Tracer, I was able to successfully build and configure a home LAN network busing switches, routers, wireless routers and end d 
+Using Cisco Packet Tracer, I created and configures a home LAN network comprised of routers, wireless routers, switches and user end-devices.
 
+*
+
+First I implemented a switch connected to two PC's connected by straight-through cables for one end of the network. On the opposite sidem I had a phone, tablet and laptop connected to a wireless router; which I then binded to a central router.
+
+## Part 1
+
+https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
+
+After physically connecting the device, I swapped out the Laptop's connector so that it could communicate wirelessly to the Home Wireless Router. I needed to assign static IPv4 addresses to each network device and some of the Ethernet ports so that they could be properly configured to communicate with each other. I set the 'switch' side of the network to a 192.168.1.0 network and the 'wireless' side to 192.168.0.0 to prevent any overlap.
+
+## Part 2
+
+https://github.com/user-attachments/assets/62eff54b-fa12-4a01-9e3a-6bb4f215303b
+
+Following the above steps, I assigned the proper Default Gateway for deivces to forward their outbound packets to; as to not have packets be dropped or lost. The final step in ensuring successful communication across the network was telling the router where incoming traffic was to go. Without knowing where to send packets from the segmented networks, the router would simply drop the packets. As such, I entered static routes so that the router could properly handle the traffic. I was able to test the network by pinging the laptop on the 192.168.0.0 network from the 192.168.1.0 network.
+
+## Part 3
+
+https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
 
  
 # Certifications
