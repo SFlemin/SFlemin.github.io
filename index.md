@@ -45,19 +45,21 @@ First I implemented a switch connected to two PC's connected by straight-through
   <source src="Network.Part-1.mp4" type="video/mp4">
 </video>
 
-https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
-
 After physically connecting the device, I swapped out the Laptop's connector so that it could communicate wirelessly to the Home Wireless Router. I needed to assign static IPv4 addresses to each network device and some of the Ethernet ports so that they could be properly configured to communicate with each other. I set the 'switch' side of the network to a 192.168.1.0 network and the 'wireless' side to 192.168.0.0 to prevent any overlap.
 
 ## Part 2
 
-https://github.com/user-attachments/assets/62eff54b-fa12-4a01-9e3a-6bb4f215303b
+<video width="480" height="320" controls="controls">
+  <source src="Network.Part-2.mp4" type="video/mp4">
+</video>
 
 Following the above steps, I assigned the proper Default Gateway for deivces to forward their outbound packets to; as to not have packets be dropped or lost. The final step in ensuring successful communication across the network was telling the router where incoming traffic was to go. Without knowing where to send packets from the segmented networks, the router would simply drop the packets. As such, I entered static routes so that the router could properly handle the traffic. I was able to test the network by pinging the laptop on the 192.168.0.0 network from the 192.168.1.0 network.
 
 ## Part 3
 
-https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
+<video width="480" height="320" controls="controls">
+  <source src="Network.Part-3.mp4" type="video/mp4">
+</video>
 
  
 # Certifications
@@ -88,31 +90,3 @@ Topics covered in the course:
 
 
 ![Branching](Google Cybersecuritry Certififcate-2_page-0001.jpg)
-
-## Part 1
-
-<video width="480" height="320" controls="controls">
-  <source src="Network.Part-1.mp4" type="video/mp4">
-</video>
-
-<video width="480" height="320" controls="controls">
-  <source src="{{ site.github.com }}/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0" type="video/mp4">
-</video>
-
-https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
-
-## Part 2
-
-https://github.com/user-attachments/assets/62eff54b-fa12-4a01-9e3a-6bb4f215303b
-
-## Part 3
-
-https://github.com/user-attachments/assets/e5af41a8-f21a-4b15-ba4b-7a557679e84e
-
-https://github.com/SFlemin/SFlemin.github.io/raw/refs/heads/main/Network.Part-1.mp4
-
-<video src="Network Part-1.mp4">
-
-<video width="320" height="240" controls loop=="" muted= "" autoplay="">
- <source src="https://github.com/SFlemin/SFlemin.github.io/raw/refs/heads/main/Network.Part-1.mp4">
-</video>
