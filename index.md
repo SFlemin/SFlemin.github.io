@@ -87,6 +87,14 @@ Topics covered in the course:
 
 ## Part 1
 
+<video width="480" height="320" controls="controls">
+  <source src="Network.Part-1.mp4" type="video/mp4">
+</video>
+
+<video width="480" height="320" controls="controls">
+  <source src="https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0" type="video/mp4">
+</video>
+
 https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
 
 ## Part 2
