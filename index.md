@@ -92,7 +92,7 @@ Topics covered in the course:
 </video>
 
 <video width="480" height="320" controls="controls">
-  <source src="https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0" type="video/mp4">
+  <source src="{{ site.github.com }}/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0" type="video/mp4">
 </video>
 
 https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
