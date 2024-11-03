@@ -41,6 +41,10 @@ First I implemented a switch connected to two PC's connected by straight-through
 
 ## Part 1
 
+<video width="480" height="320" controls="controls">
+  <source src="Network.Part-1.mp4" type="video/mp4">
+</video>
+
 https://github.com/user-attachments/assets/8c374856-8cbc-4ecf-8aba-cad3d1c335e0
 
 After physically connecting the device, I swapped out the Laptop's connector so that it could communicate wirelessly to the Home Wireless Router. I needed to assign static IPv4 addresses to each network device and some of the Ethernet ports so that they could be properly configured to communicate with each other. I set the 'switch' side of the network to a 192.168.1.0 network and the 'wireless' side to 192.168.0.0 to prevent any overlap.
