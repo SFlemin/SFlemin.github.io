@@ -57,6 +57,7 @@ class Compare:
         return sha256_B.hexdigest()
 
 #Enabling the use of the Compare class by giving it an object
+#Replace the example file paths below with desired files
 hashes = Compare("C:\\Users\\Sam\\Desktop\\Coding\\Testing Resources\\Hash.1.txt", "C:\\Users\\Sam\\Desktop\\Coding\\Testing Resources\\Hash.2")
 
 
