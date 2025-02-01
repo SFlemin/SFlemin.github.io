@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-Hi there! 
+Hi there, 
 
-Thank you for taking the time to look over my home projects. Here you will find a growing set of cybersecurity and networking ventures.
+Thank you for taking the time to look over my IT-realted home projects. Here you will find a growing set of cybersecurity and networking ventures.
 
 
 
